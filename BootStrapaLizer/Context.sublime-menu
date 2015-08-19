@@ -1,0 +1,8 @@
+[
+	{ "caption": "CSS", "children":
+									[
+										{ "caption": "Expand", "command": "expand_css" },
+										{ "caption": "Minimize", "command": "minimize_css" }
+									]
+	}
+]
